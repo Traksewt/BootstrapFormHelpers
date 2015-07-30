@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-formhelpers",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "homepage": "http://bootstrapformhelpers.com",
   "main" : [
     "dist/css/bootstrap-formhelpers.css",
