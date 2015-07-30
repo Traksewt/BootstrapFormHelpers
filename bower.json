@@ -2,6 +2,14 @@
   "name": "bootstrap-formhelpers",
   "version": "2.3.0",
   "homepage": "http://bootstrapformhelpers.com",
+  "main" : [
+    "dist/css/bootstrap-formhelpers.css",
+    "dist/img/bootstrap-formhelpers-countries.flags.png",
+    "dist/img/bootstrap-formhelpers-countries.flags-LICENSE.txt",
+    "dist/img/bootstrap-formhelpers-currencie.flags.png",
+    "dist/img/bootstrap-formhelpers-googlefonts.png",
+    "dist/js/bootstrap-formhelpers.js"
+  ],
   "authors": [
     "Vincent Lamanna <v@cakemail.com>"
   ],
